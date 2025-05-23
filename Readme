@@ -1,0 +1,12 @@
+#Important commands for library import
+pip install pandas numpy scikit-learn joblib
+pip install streamlit
+pip install matplotlib seaborn
+pip install pandas numpy scikit-learn joblib streamlit matplotlib seaborn
+pip install streamlit joblib scikit-learn pandas
+
+#For Running Random Forest Model
+streamlit run GUI.py
+
+#For Running All models results
+streamlit run Comparison_Model.py 
